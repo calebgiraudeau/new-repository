@@ -31,4 +31,4 @@ jobs:
       uses: NateGiraudeau/area-of-triangle-action@v3
       with:
         width: 10
-        height: 10
+        height: 9
